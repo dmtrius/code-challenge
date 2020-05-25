@@ -6,7 +6,7 @@ You have 7 days to complete this challenge but it shouldn't take you longer than
 
 ## Description
 
-Using tools of your choice from JAVA stack write test scenarios (given below) for the entire site: https://github.com/ or just an API https://developer.github.com/v3
+Using tools of your choice from JAVA stack, write test scenarios (given below) for website: https://github.com/ or just for an API https://developer.github.com/v3
 
 ## Scenarios
 
@@ -34,6 +34,9 @@ User should login and delete a repository.
 ## Details
 
 - don't care about registering users!!
+- add documentation if needed 
+- add unit tests if needed
+- BDD-style is nice to have
 
 ## Submitting
 
