@@ -2,7 +2,7 @@
 
 You have received this challenge as part of the recruiting process for HSBC. The contents of this exercise are confidential, so please do not distribute.
 
-You have 7 days to complete this challenge but it shouldn't take you longer than a few hours. Please send it back as soon as you're done.
+You have 7 days to complete this challenge but it shouldn't take you longer than a few hours. Please send it back as soon as you're done, but take your time to prepare a good solution!
 
 ## Description
 
@@ -50,5 +50,3 @@ Place your code on https://github.com.
 Please write your solution provided an easy option to build it and run it on macOS/windows.
 
 We appreciate people have day jobs and other commitments, so please let us know if you need more time!
-
-Please do not publish your solution, for example on your blog.
